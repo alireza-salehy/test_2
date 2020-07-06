@@ -1,6 +1,11 @@
 this is my 1 ripository
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 
+=======
+sdfsdfsd
+asfsdf
+>>>>>>> new2
 v1
 =======
 sdfsdfsd
